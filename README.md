@@ -47,7 +47,8 @@ Using the IEEE 9-bus test system modeled in **DIgSILENT PowerFactory**, several 
    - Activate the project file "IEEE 9 bus Hybrid HVDC and BESS_1"
 
 3. **Run Case Studies**  
-   - Activate case study you intend to test 
+   - Activate a study case
+   - Activate **Nine-bus System** grid
    - Run **RMS/EMT Simulation** for each case and see plots.  
 
 5. **Compare Results**  
